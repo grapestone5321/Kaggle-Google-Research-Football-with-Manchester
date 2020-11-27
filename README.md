@@ -22,4 +22,7 @@ As with a typical football game, you want your team to score more than the other
 You can optionally see your efforts rendered in a physics-based 3D football simulation.
 
 
+## GitHub: Google Research Football
+https://github.com/google-research/football
+
 
