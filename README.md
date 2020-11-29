@@ -28,3 +28,8 @@ You can optionally see your efforts rendered in a physics-based 3D football simu
 https://github.com/google-research/football
 
 
+## Getting Started with Gym
+https://gym.openai.com/docs/#available-environments
+
+
+
