@@ -71,8 +71,11 @@ I suggest keeping them in alphabetical order
 ### Global Variables
 I suggest keeping them in alphabetical order
 
+### Agent
+Detailed description of the GFootball observations is available here.
 
 
+### Play Game
 
 
 
